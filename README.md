@@ -17,8 +17,8 @@ To run this application, follow the steps below:
 ### 1. Clone the repository
     
 ```bash
-git clone <your-repository-url>
-cd <your-project-directory>
+git clone https://github.com/Saralp20/backend_movies_challenge
+cd backend_movies_challenge
 ```
 
 ### 2. Build and Run the Project
