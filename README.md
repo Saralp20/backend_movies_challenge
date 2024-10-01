@@ -83,7 +83,7 @@ http://localhost:8080/movies?rank=8
 **GET** `/movies?date={launchDate}`
 
 ```
-http://localhost:8080/movies?date=2021-12-17
+http://localhost:8080/movies?date=2009-12-18
 ```
 
 #### Add a Movie
